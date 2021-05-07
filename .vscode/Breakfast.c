@@ -1,3 +1,5 @@
+//Breakfast Program
+
 #include <stdio.h>
 
 int pancakes[20] = {0}; //array declaration
