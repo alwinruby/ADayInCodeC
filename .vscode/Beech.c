@@ -7,7 +7,7 @@
 
 int main(void)
 {
-    int chip_bag = 0, cupcake_box = 1, kids_playing = 0;
+    int chip_bag = 1, cupcake_box = 1, kids_playing = 0;
 
     if (chip_bag == OPEN || cupcake_box == OPEN) //outer if statement
     {
